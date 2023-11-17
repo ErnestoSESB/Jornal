@@ -1,0 +1,89 @@
+
+
+
+body{
+    background-color: white;
+}
+header{
+    background-color: white;
+}
+main{
+ background-color: white;
+}
+footer{
+    background-color: white;
+}
+header > h2{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: 2.7rem;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-weight: 400;
+    font-size: 3.6rem;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header > h3{
+    color: gray;
+    font-size: 1.1rem;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+header > p{
+    color: gray;
+    font-size: 1.0rem;
+    margin: 0%;
+    text-align: center;
+}
+img{
+    border-radius: 15px;
+    width: 700px;
+    height: auto;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+main > p{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-style: normal;
+    margin-left: 350px;
+    margin-right: 350px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+figcaption{
+    margin-left: 340px;
+    margin-right: 340px;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: gray;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: larger;
+    margin-left: 340px;
+    margin-right: 340px;
+}
+a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+    font-size: 1.3rem;
+    line-height: 1.5;
+    letter-spacing: 1.2px;
+    text-decoration: underline;  
+}
+ul{
+    margin-left: 340px;
+    margin-right: 340px;
+}
